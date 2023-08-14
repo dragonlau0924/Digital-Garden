@@ -1,5 +1,5 @@
 ---
-{"title":"🏠Home","obsidianUIMode":"preview","dg-publish":true,"dg-home":true,"permalink":"/🏠Home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-03-25T00:42:30.000+08:00","updated":"2023-08-14T15:49:10.692+08:00"}
+{"title":"🏠Home","obsidianUIMode":"preview","dg-publish":true,"dg-home":true,"permalink":"/🏠Home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 
