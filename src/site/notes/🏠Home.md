@@ -1,7 +1,9 @@
 ---
-{"title":"🏠Home","obsidianUIMode":"preview","dg-publish":true,"dg-home":true,"created":"2023-03-25 00:42:30","updated":"2023-08-14 15:02:48","permalink":"/🏠Home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"title":"🏠Home","obsidianUIMode":"preview","dg-publish":true,"dg-home":true,"permalink":"/🏠Home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-03-25T00:42:30.000+08:00","updated":"2023-08-14T15:49:10.692+08:00"}
 ---
 
+
+# [我的数字花园](https://digital-garden-n0q.pages.dev/)
 
 ## Atlas
 - [[MOCs\|MOCs]]
