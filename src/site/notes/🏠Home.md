@@ -3,8 +3,6 @@
 ---
 
 
-# [我的数字花园](https://digital-garden-n0q.pages.dev/)
-
 ## Atlas
 - [[MOCs\|MOCs]]
 - [[TOCs\|TOCs]]
